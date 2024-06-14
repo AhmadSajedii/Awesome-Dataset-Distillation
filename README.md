@@ -102,6 +102,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm](https://arxiv.org/abs/2312.03526) (Peng Sun et al., CVPR 2024) [:octocat:](https://github.com/LINs-lab/RDED) [:book:](./citations/sun2024diversity.txt)
 + [Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation](https://arxiv.org/abs/2404.00563) (Wenxiao Deng et al., CVPR 2024) [:octocat:](https://github.com/VincenDen/IID) [:book:](./citations/deng2024iid.txt)
 + [DANCE: Dual-View Distribution Alignment for Dataset Condensation](https://arxiv.org/abs/2406.01063) (Hansong Zhang et al., IJCAI 2024) [:octocat:](https://github.com/Hansong-Zhang/DANCE) [:book:](./citations/zhang2024dance.txt)
++ [ATOM: Attention Mixer for Efficient Dataset Distillation]([https://arxiv.org/abs/2310.00093](https://arxiv.org/abs/2405.01373)) (Samir Khaki & Ahmad Sajedi et al., CVPR-DD 2024) [:octocat:](https://github.com/DataDistillation/ATOM) [:book:](./citations/khaki2024atom.txt)
 
 <a name="optimization" />
 
