@@ -1,0 +1,7 @@
+@inproceedings{khaki2024atom,
+  title={ATOM: Attention Mixer for Efficient Dataset Distillation},
+  author={Khaki, Samir and Sajedi, Ahmad and Wang, Kai and Liu, Lucy Z and Lawryshyn, Yuri A and Plataniotis, Konstantinos N},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7692--7702},
+  year={2024}
+}
